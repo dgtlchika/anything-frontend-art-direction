@@ -1,3 +1,5 @@
+> このフォークについて：デジタル地下室（note: sumaho_lab）が自前環境で使うためのフォークです。上流は RNA4219/anything-frontend-art-direction（https://github.com/RNA4219/anything-frontend-art-direction）です。
+
 # Anything Frontend Art Direction
 
 **日本語** · [English](README.en.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko.md)
